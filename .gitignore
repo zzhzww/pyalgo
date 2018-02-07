@@ -1,9 +1,9 @@
 *pyc
 MANIFEST
 doc/_build
-
+.idea/
 dist
 build
 PyAlgoTrade.egg-info
-
+.gitignore
 testcases/twitter_credentials.py
